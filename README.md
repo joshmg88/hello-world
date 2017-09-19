@@ -1,3 +1,3 @@
 # hello-world
-newbie
-hdsajLHDJLSKa
+New to this
+Thanks for playing
